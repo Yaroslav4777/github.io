@@ -1,0 +1,35 @@
+/* CSS Document */
+h1, h2, h3 {
+    font-weight: 400;
+}
+h1{
+    font-size: 36px;
+    margin-bottom: 0;
+}
+h2.ident{
+    font-size: 32px;
+    margin-bottom: 8px;
+    margin-top: 0px;
+}
+a.indentation{
+    padding-left: 10px;
+}
+
+#header {
+    text-align: center;
+    margin-bottom: 32px;
+    }
+
+h2.underline{
+    border-bottom: 1px solid#808080;
+    }
+li.iden{
+    padding-bottom: 10px;
+}
+#main{
+    padding-bottom: 12px;
+    }
+#footer{
+    margin-top: 64px;
+    text-align: center;
+}
